@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style/main.css">
+
+    <!-- responsividade -->
+    <link rel="stylesheet" href="style/responsive.css">
+
+    <!-- owl css -->
+    <link rel="stylesheet" href="style/owl/owl.carousel.min.css">
+    <link rel="stylesheet" href="style/owl/owl.theme.default.min.css">
+
+    <title>GAMEFLIX</title>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h2 class="logo"><span>G</span>AMEFLI<span>X</span></h2>
+            <nav>
+                <a href="#">Início</a>
+                <a href="#">Para você</a>
+                <a href="#">Mais jogados</a>
+                <a href="#">Gêneros</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <div class="filme-principal" id="foto-principal">
+            <div class="container">
+                <h3 class="titulo" id="titulo-id">THE LAST OF US 2</h3>
+                <p class="descricao" id="descricao-id">5 anos após a perigosa jornada através dos Estados Unidos pós-pandêmico, Ellie e Joel se acomodaram em Jackson, Wyoming. Viver em uma próspera comunidade...</p>
+                <div class="botoes">
+                    <button role="button" class="botao">
+                        <i class="fas fa-gamepad"></i>
+                        JOGAR AGORA
+                    </button>
+                    <button role="button" class="botao">
+                        <i class="fas fa-info-circle"></i>
+                        MAIS INFORMAÇÕES
+                    </button>
+                </div>
+            </div>          
+        </div>
+    </main>
+
+    <div class="carrosel-filmes">
+        <div class="owl-carousel owl-theme">
+            <div class="item">
+                <img class="box-filme" id="thelastofus2" onclick="TrocaFoto(this)" src="img/mini-thelastofus2.jpg" alt="">
+            </div>
+            <div class="item">
+                <img class="box-filme" id="battlefield" onclick="TrocaFoto(this)" src="img/mini-battlefield.jpg" alt="">
+            </div>
+            <div class="item">
+                <img class="box-filme" id="cod" onclick="TrocaFoto(this)" src="img/mini-cod.jpg" alt="">
+            </div>
+            <div class="item">
+                <img class="box-filme" id="farcry6" onclick="TrocaFoto(this)" src="img/mini-farcry6.jpg" alt="">
+            </div>
+            <div class="item">
+                <img class="box-filme" id="fortnite" onclick="TrocaFoto(this)" src="img/mini-fortnite.jpg" alt="">
+            </div>
+            <div class="item">
+                <img class="box-filme" id="justcase4" onclick="TrocaFoto(this)" src="img/mini-justcase4.jpg" alt="">
+            </div>
+            <div class="item">
+                <img class="box-filme" id="resident" onclick="TrocaFoto(this)" src="img/mini-resident.jpg" alt="">
+            </div>
+            <div class="item">
+                <img class="box-filme" id="theforest" onclick="TrocaFoto(this)" src="img/mini-theforest.jpg" alt="">
+            </div>
+            <div class="item">
+                <img class="box-filme" id="albion" onclick="TrocaFoto(this)" src="img/mini-albion.jpg" alt="">
+            </div>
+            <div class="item">
+                <img class="box-filme" id="tombraider" onclick="TrocaFoto(this)" src="img/mini-tombraider.jpg" alt="">
+            </div>
+        </div>
+    </div>
+
+    <script src="https://kit.fontawesome.com/d5fcbe880e.js" crossorigin="anonymous"></script>
+    <script src="js/owl/jquery.min.js"></script>
+    <script src="js/owl/owl.carousel.min.js"></script>
+    <script src="js/owl/setup.js"></script>
+    <script src="js/owl/index.js"></script>
+
+
+</body>
+</html>

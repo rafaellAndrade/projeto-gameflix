@@ -1,0 +1,51 @@
+[
+     {  "id": "cod",
+        "nome": "Call of Duty Black Ops",
+        "descricao":"A história gira à volta de uma arma química experimental alemã roubada pelos soviéticos no fim da 2ª Guerra Mundial...."
+    },
+    {
+        "id": "battlefield",
+        "nome": "BATTLE FIELD 5",
+        "descricao":"O novo capítulo da série retorna às suas origens, já que o primeiro game da saga, Battlefield 1942, também se passava em plena Segunda Guerra Mundial. E ao contrário..."
+    },
+    {
+        "id":"albion",
+        "nome": "Albion",
+        "descricao":"Albion Online é a primeira experiência MMO verdadeiramente multiplataforma, disponível para Windows, Mac, Linux e Android, com..."
+    },
+    {
+        "id": "farcry6",
+        "nome": "Far Cry 6",
+        "descricao":"Em Far Cry 6, joga-se com Dani Rojas, podendo escolher um protagonista homem ou mulher. Isso não muda a história, pois o que importa é viver um ex-militar que..."
+    },
+    {
+        "id":"fortnite",
+        "nome": "Fortnite",
+        "descricao":"Fortnite Battle Royale é um modo de jogo do gênero battle royale para até 100 jogadores, jogando sozinho ou em grupos de..."
+    },
+    {
+        "id":"justcase4",
+        "nome": "Just Cause 4",
+        "descricao":"Just Cause 4 se passa em um país fictício da América do Sul, Sólis, que é assolado por condições climáticas extremas. Rambo, não pera! Rico Rodriguez, agora um..."
+    },
+    {
+        "id": "resident",
+        "nome": "Resident Evil 2",
+        "descricao":"A história se passa na fictícia Raccoon City em Setembro de 1998, onde a Corporação Umbrella causa um surto de um vírus conhecido como ..."
+    },
+    {
+        "id": "theforest",
+        "nome": "The Forest",
+        "descricao":"Depois de um acidente de avião, o jogador se vê em uma ilha aparentemente deserta. O desafio para sobreviver se transforma em terror quando..."
+    },
+    {
+        "id": "thelastofus2",
+        "nome": "THE LAST OF US 2",
+        "descricao":"5 anos após a perigosa jornada através dos Estados Unidos pós-pandêmico, Ellie e Joel se acomodaram em Jackson, Wyoming. Viver em uma próspera comunidade..."
+    },
+    {
+        "id": "tombraider",
+        "nome": "Rise of the Tomb Raider",
+        "descricao":"Lara deixa no passado sua história na enigmática ilha de Yamatai para se concentrar em um objetivo muito mais ambicioso: encontrar a Fonte Divina, um artefato sagrado que..."
+    }
+]
