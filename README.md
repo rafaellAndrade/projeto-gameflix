@@ -1,0 +1,2 @@
+# projeto-gameflix
+Neste projeto foi recriada a interface da Netflix utilizando tecnologias simples como HTML5, CSS3 e JavaScript.  O GAMEFLIX seria uma plataforma onde é possível encontrar seus jogos favoritos e jogar.  Ao clicar no jogo desejado a foto do jogo principal é trocada (capa do topo), assim como o título e a breve descrição do jogo que foi clicado. Então todos os jogos presentes no cátalo podem subir para o topo e assim assumir a imagem de capa. Contento o botão de jogar  e o de mais informações.
